@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amine1taous
-- 👀 I’m interested in programming and video games
+- 👀 I’m interested in programming 
 - 🌱 I’m currently learning java ,angular 
 - 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me on my email
